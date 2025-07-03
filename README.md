@@ -41,7 +41,7 @@ use repositiory to obtain package copy.
 
 Below are a couple examples of package usage. 
 
-Please refer to [examples.py](https://github.com/chrisrac/pyenfra/examples/examples.py) for extended, detailed examples and computation workflows.
+Please refer to [examples.py](https://github.com/chrisrac/pyenfra/blob/main/examples/examples.py) for extended, detailed examples and computation workflows.
 
 ```python
 import numpy as np
