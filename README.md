@@ -1,7 +1,7 @@
 # pyenfra
 ## Python Package for Environmental Fractal Analysis and Chaos Estimation
 ![Static Badge](https://img.shields.io/badge/release-v0.4-red?style=flat)
-![Static Badge](https://img.shields.io/badge/pypi-comming_soon-orange?style=flat)
+![Static Badge](https://img.shields.io/badge/pypi-v0.4-orange?style=flat)
 ![Static Badge](https://img.shields.io/badge/python-v3.7%2B-blue?style=flat)
 ![Static Badge](https://img.shields.io/badge/license-MIT-green?style=flat)
 ![Static Badge](https://img.shields.io/badge/NOAA-NA19NOS4730207-navy?style=flat)
@@ -29,7 +29,7 @@ pyenfra can be installed using **pip** or locally by downloading package copy.
 
 pip install:
 ```python
-
+pip install pyenfra
 ```
 local:
 
