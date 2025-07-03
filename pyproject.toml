@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=40.8.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyenfra"
+version = "0.4.0"
+description = "A Python package for fractal and complexity analysis of time series."
+readme = "README.md"
+requires-python = ">=3.7"
+license = { text = "MIT" }
+authors = [
+  { name = "Krzysztof Raczynski", email = "chrisr@gri.msstate.edu" }
+]
+dependencies = [
+  "numpy>=1.17",
+  "scipy>=1.4",
+  "PyWavelets>=1.1.1",
+  "pyts>=0.12.0",
+  "matplotlib>=3.0"
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+  "Topic :: Scientific/Engineering :: Information Analysis"
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=6.0", "flake8", "black"]
