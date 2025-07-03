@@ -29,7 +29,7 @@ pyenfra can be installed using **pip** or locally by downloading package copy.
 
 pip install:
 ```python
-pip install pyenfra
+
 ```
 local:
 
