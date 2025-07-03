@@ -2,7 +2,7 @@
 ## Python Package for Environmental Fractal Analysis and Chaos Estimation
 ![Static Badge](https://img.shields.io/badge/release-v0.4-red?style=flat)
 ![Static Badge](https://img.shields.io/badge/pypi-comming_soon-orange?style=flat)
-![Static Badge](https://img.shields.io/badge/python-v3.11%2B-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/python-v3.7%2B-blue?style=flat)
 ![Static Badge](https://img.shields.io/badge/license-MIT-green?style=flat)
 ![Static Badge](https://img.shields.io/badge/NOAA-NA19NOS4730207-navy?style=flat)
 
